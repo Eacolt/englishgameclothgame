@@ -1,0 +1,98 @@
+[
+  {
+    "name":"boy_clothes_cap01_png",
+    "url":"static/img/boyclothes/cap/cap01.png"
+  },
+  {
+    "name":"boy_clothes_glasses01_png",
+    "url":"static/img/boyclothes/glasses/glasses01.png"
+  },
+  {
+    "name":"boy_clothes_glasses02_png",
+    "url":"static/img/boyclothes/glasses/glasses02.png"
+  },
+
+  {
+    "name":"boy_clothes_hairpin01_png",
+    "url":"static/img/boyclothes/hairpin/hairpin01.png"
+  },
+
+  {
+    "name":"boy_clothes_hairpin02_png",
+    "url":"static/img/boyclothes/hairpin/hairpin02.png"
+  },
+
+  {
+    "name":"boy_clothes_props01_png",
+    "url":"static/img/boyclothes/props/props01.png"
+  },
+  {
+    "name":"boy_clothes_props02_png",
+    "url":"static/img/boyclothes/props/props02.png"
+  },
+
+  {
+    "name":"boy_clothes_shoes01_png",
+    "url":"static/img/boyclothes/shoes/shoes01.png"
+  },
+  {
+    "name":"boy_clothes_shoes02_png",
+    "url":"static/img/boyclothes/shoes/shoes02.png"
+  },
+  {
+    "name":"boy_clothes_shoes03_png",
+    "url":"static/img/boyclothes/shoes/shoes03.png"
+  },
+  {
+    "name":"boy_clothes_shoes04_png",
+    "url":"static/img/boyclothes/shoes/shoes04.png"
+  },
+
+  {
+    "name":"boy_clothes_shorts01_png",
+    "url":"static/img/boyclothes/shorts/shorts01.png"
+  },
+  {
+    "name":"boy_clothes_shorts02_png",
+    "url":"static/img/boyclothes/shorts/shorts02.png"
+  },
+  {
+    "name":"boy_clothes_shorts03_png",
+    "url":"static/img/boyclothes/shorts/shorts03.png"
+  },
+  {
+    "name":"boy_clothes_shorts04_png",
+    "url":"static/img/boyclothes/shorts/shorts04.png"
+  },
+
+  {
+    "name":"boy_clothes_suit01_png",
+    "url":"static/img/boyclothes/suit/suit01.png"
+  },
+  {
+    "name":"boy_clothes_suit02_png",
+    "url":"static/img/boyclothes/suit/suit02.png"
+  },
+  {
+    "name":"boy_clothes_suit03_png",
+    "url":"static/img/boyclothes/suit/suit03.png"
+  },
+  {
+    "name":"boy_clothes_suit04_png",
+    "url":"static/img/boyclothes/suit/suit04.png"
+  },
+
+  {
+    "name":"boy_clothes_tshirt01_png",
+    "url":"static/img/boyclothes/tshirt/tshirt01.png"
+  },
+  {
+    "name":"boy_clothes_tshirt02_png",
+    "url":"static/img/boyclothes/tshirt/tshirt02.png"
+  },
+  {
+    "name":"boy_clothes_tshirt03_png",
+    "url":"static/img/boyclothes/tshirt/tshirt03.png"
+  }
+
+]

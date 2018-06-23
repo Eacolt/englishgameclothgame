@@ -1,0 +1,153 @@
+
+scene_spring.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: true
+  xy: 964, 981
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 2, 613
+  size: 843, 120
+  orig: 843, 120
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 789, 216
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 445, 267
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 790, 577
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+grass2
+  rotate: false
+  xy: 493, 162
+  size: 161, 128
+  orig: 161, 128
+  offset: 0, 0
+  index: -1
+grass3
+  rotate: false
+  xy: 656, 212
+  size: 131, 78
+  orig: 131, 78
+  offset: 0, 0
+  index: -1
+grass4
+  rotate: false
+  xy: 445, 508
+  size: 343, 103
+  orig: 343, 103
+  offset: 0, 0
+  index: -1
+grass5
+  rotate: false
+  xy: 493, 56
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+grass6
+  rotate: false
+  xy: 745, 481
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+grass7
+  rotate: false
+  xy: 445, 254
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+mountain1
+  rotate: true
+  xy: 445, 388
+  size: 118, 298
+  orig: 118, 298
+  offset: 0, 0
+  index: -1
+mountain2
+  rotate: false
+  xy: 2, 2
+  size: 289, 250
+  orig: 289, 250
+  offset: 0, 0
+  index: -1
+mountain3
+  rotate: true
+  xy: 293, 36
+  size: 216, 198
+  orig: 216, 198
+  offset: 0, 0
+  index: -1
+mountain4
+  rotate: false
+  xy: 2, 254
+  size: 441, 357
+  orig: 441, 357
+  offset: 0, 0
+  index: -1
+sky
+  rotate: true
+  xy: 445, 356
+  size: 30, 344
+  orig: 30, 344
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 735
+  size: 960, 287
+  orig: 960, 287
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 847, 484
+  size: 249, 175
+  orig: 249, 175
+  offset: 0, 0
+  index: -1
+vine1
+  rotate: true
+  xy: 445, 324
+  size: 30, 450
+  orig: 30, 450
+  offset: 0, 0
+  index: -1
+vine2
+  rotate: true
+  xy: 445, 292
+  size: 30, 450
+  orig: 30, 450
+  offset: 0, 0
+  index: -1
+water1
+  rotate: false
+  xy: 293, 16
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1

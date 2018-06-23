@@ -1,0 +1,181 @@
+
+scene_summer.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beach
+  rotate: false
+  xy: 2, 203
+  size: 480, 62
+  orig: 480, 62
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 428, 74
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 2, 267
+  size: 685, 98
+  orig: 685, 98
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 2, 367
+  size: 866, 143
+  orig: 866, 143
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 870, 477
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+crab
+  rotate: false
+  xy: 870, 408
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+crabS
+  rotate: false
+  xy: 484, 121
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+froth
+  rotate: false
+  xy: 2, 158
+  size: 480, 43
+  orig: 480, 43
+  offset: 0, 0
+  index: -1
+ground
+  rotate: true
+  xy: 689, 332
+  size: 33, 160
+  orig: 33, 160
+  offset: 0, 0
+  index: -1
+sea
+  rotate: true
+  xy: 235, 51
+  size: 33, 191
+  orig: 33, 191
+  offset: 0, 0
+  index: -1
+seafroth1
+  rotate: true
+  xy: 669, 175
+  size: 90, 8
+  orig: 90, 8
+  offset: 0, 0
+  index: -1
+seafroth2
+  rotate: false
+  xy: 103, 4
+  size: 89, 7
+  orig: 89, 7
+  offset: 0, 0
+  index: -1
+seafroth3
+  rotate: false
+  xy: 474, 113
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+seafroth4
+  rotate: false
+  xy: 870, 399
+  size: 61, 7
+  orig: 61, 7
+  offset: 0, 0
+  index: -1
+seafroth5
+  rotate: true
+  xy: 941, 414
+  size: 61, 7
+  orig: 61, 7
+  offset: 0, 0
+  index: -1
+seafroth6
+  rotate: false
+  xy: 2, 2
+  size: 99, 9
+  orig: 99, 9
+  offset: 0, 0
+  index: -1
+seafroth7
+  rotate: false
+  xy: 235, 41
+  size: 89, 8
+  orig: 89, 8
+  offset: 0, 0
+  index: -1
+seafroth8
+  rotate: false
+  xy: 484, 136
+  size: 116, 12
+  orig: 116, 12
+  offset: 0, 0
+  index: -1
+seafroth9
+  rotate: false
+  xy: 602, 141
+  size: 61, 7
+  orig: 61, 7
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 121
+  size: 480, 35
+  orig: 480, 35
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 235, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+sky
+  rotate: true
+  xy: 235, 86
+  size: 33, 237
+  orig: 33, 237
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 689, 295
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+treeL
+  rotate: true
+  xy: 484, 150
+  size: 115, 183
+  orig: 115, 183
+  offset: 0, 0
+  index: -1
+treeR
+  rotate: true
+  xy: 2, 13
+  size: 106, 231
+  orig: 106, 231
+  offset: 0, 0
+  index: -1
